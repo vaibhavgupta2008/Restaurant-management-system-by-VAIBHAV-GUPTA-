@@ -5,7 +5,16 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 A feature-rich, lightweight, and modern **Point of Sale (POS) & Restaurant Billing Application** built using **Python** and **Tkinter**. This software provides a smooth, fast, and interactive desktop interface for taking customer orders, applying discounts, calculating GST, and generating print-ready receipts without requiring any external dependencies.
+---
 
+## 👨‍💻 Developer Brief & Credits
+
+Designed and developed by **Vaibhav Gupta**.
+
+- **Developer**: Vaibhav Gupta
+- **Location**: Chhattisgarh, India
+- **GitHub**: [@VAIBHAVGUPTA2008](https://github.com/VAIBHAVGUPTA2008)
+- **LinkedIn**: [Vaibhav Gupta](https://www.linkedin.com/in/vaibhav-gupta-0819932b0/)
 ---
 
 ## 🌟 Key Highlights & Features
